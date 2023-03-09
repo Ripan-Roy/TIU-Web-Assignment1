@@ -25,3 +25,8 @@
   background-color: #04aa6d;
   color: white;
 }
+
+.hero {
+  align-self: auto;
+  justify-content: center;
+}
